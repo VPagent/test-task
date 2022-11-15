@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const react_responsive_1 = require("react-responsive");
 const AttachedImages = ({ pictures }) => {

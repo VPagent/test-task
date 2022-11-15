@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getPostedDate = void 0;
 const convert_1 = require("../convert");

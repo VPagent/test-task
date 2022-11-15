@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const fa_1 = require("react-icons/fa");
 const react_responsive_1 = require("react-responsive");
