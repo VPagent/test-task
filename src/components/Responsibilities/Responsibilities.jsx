@@ -1,4 +1,4 @@
-// "use strict";
+"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const cutText_1 = require("../../helpers/editText/cutText");
 const Responsibilities = ({ description, title }) => {

@@ -1,4 +1,4 @@
-// "use strict";
+"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const react_hooks_global_state_1 = require("react-hooks-global-state");
 const initialState = {

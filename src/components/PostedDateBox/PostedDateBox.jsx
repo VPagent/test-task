@@ -1,4 +1,4 @@
-// "use strict";
+"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const getPostedDate_1 = require("../../helpers/date/getPostedDate/getPostedDate");
 const PostedDateBox = ({ createdAt, big }) => {

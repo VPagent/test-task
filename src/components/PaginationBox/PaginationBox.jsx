@@ -1,4 +1,4 @@
-// "use strict";
+"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const md_1 = require("react-icons/md");
 const md_2 = require("react-icons/md");
